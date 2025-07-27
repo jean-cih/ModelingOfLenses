@@ -27,7 +27,7 @@
 1. Убедитесь, что у вас установлен Python 3.12
 2. Установите необходимые зависимости:
    ```bash
-   pip install numpy scipy matplotlib pandas
+   pip install numpy scipy matplotlib pandas tkinter
    ```
 3. Запустите программу:
    ```bash
